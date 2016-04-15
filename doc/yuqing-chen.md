@@ -5,3 +5,5 @@
      - [ ] As long as they are delicious
      - [ ] Many and exploring
      - [ ] Favorite color: green
+
+**Ocupation: software engineer
